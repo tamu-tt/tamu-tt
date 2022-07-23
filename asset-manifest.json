@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tamu-tt/static/css/main.073c9b0a.css",
-    "main.js": "/tamu-tt/static/js/main.f57c3286.js",
+    "main.js": "/tamu-tt/static/js/main.fb67a975.js",
     "static/js/787.42bb6f6e.chunk.js": "/tamu-tt/static/js/787.42bb6f6e.chunk.js",
     "static/media/logo.svg": "/tamu-tt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tamu-tt/index.html",
     "main.073c9b0a.css.map": "/tamu-tt/static/css/main.073c9b0a.css.map",
-    "main.f57c3286.js.map": "/tamu-tt/static/js/main.f57c3286.js.map",
+    "main.fb67a975.js.map": "/tamu-tt/static/js/main.fb67a975.js.map",
     "787.42bb6f6e.chunk.js.map": "/tamu-tt/static/js/787.42bb6f6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f57c3286.js"
+    "static/js/main.fb67a975.js"
   ]
 }
