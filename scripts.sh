@@ -1,0 +1,1 @@
+find /shared/path -type f -name "*:Zone.Identifier" -exec rm -f {} \;
